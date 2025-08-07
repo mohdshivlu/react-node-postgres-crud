@@ -117,7 +117,7 @@ The frontend will be available at: 👉 **http://localhost:5173**
 
 **Mohd Shivlu**  
 🔗 [LinkedIn](https://linkedin.com/in/mohdshivlu)  
-📧 mohdshivlu1245@gmail.com 
+📧 mohdshivlu1245@gmail.com   
 🌐 [GitHub Profile](https://github.com/mohdshivlu)
 
 ---
